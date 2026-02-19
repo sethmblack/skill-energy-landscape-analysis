@@ -4,7 +4,7 @@ description: Analyze systems, problems, or ML architectures through the lens of 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3905
+  version: 1.0.3906
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - energy-landscape-analysis
